@@ -6,5 +6,4 @@ public class GitTest2 {
 		System.out.println("GitTest3"); 
 		
 	} 
-
 }
